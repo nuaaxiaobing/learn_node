@@ -9,4 +9,5 @@ app.use(async (ctx, next) => {
 });
 
 app.listen(3000);
+
 console.log('app starts at port 3000');
